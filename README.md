@@ -92,15 +92,16 @@ The number of drivers in the Urban cities is more than four times the drivers in
 ![Fig4.png](analysis/Fig4.png)
 
 
-6. 
+**6. Fare, Ride, and Driver Percentages by City Type:**
+
+In the next three graphs we can observe that despite the participation of drivers for Rural cities is the lowest (2.6%), the participation of Rides (5.3%), and Total fares (6.8%) for the same city type take higher values.
+
 
 ![Fig5.png](analysis/Fig5.png)
 
-7. 
 
 ![Fig6.png](analysis/Fig6.png)
 
-8. 
 
 ![Fig7.png](analysis/Fig7.png)
 
