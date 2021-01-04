@@ -51,15 +51,13 @@ Finally, **Rural cities have the lowest number of drivers, significantly higher 
 
 **3. Number of Rides by City Type:**
 
- the comparison as follows:
+Looking at the box-and-whisker plot we can see that **the median number of rides in Urban cities (24) is the greatest**, followed by Suburban (17), and Rural (6). 
 
-Looking at the box-and-whisker plot we can see that **the median number of rides in Urban cities (24) is the greatest**, followed by Suburban (17), and Rural (6).
+Urban cities shows the highest distance between the ends of the three whiskers for each boxplot.  This means that the **range of the data** for that city type is the **largest**.  Number of rides for Urban cities may have **values going from 12 to 39 rides per city**. Finally, there is at least one outlier in the Urban cities, which is close to 40.
 
-We can see that Urban citiesthe distance between the ends of the three whiskers for each boxplotThe dispersion or range in number of rides for Urban cities (as shown by the distances between the ends of the two whiskers for each boxplot), followed by Suburban and Rural respectively. This means that **the number of rides in Urban cities may vary in greater scale than those in Suburban and Rural.** 
+In the time analyzed **Rural cities** have **the smallest number of rides per city** and therefore a narrower range. Number of rides have taken **values between 3 to 13**.
 
-The minimun and maximum number of rides are as follows respectively: Urban:12 and 39, Suburban: 9 and 27, Rural: 3 and 13.
-
--Comparison of potential outliers: There is at least one outlier in the Urban cities, which is close to 40.
+The range for Suburban cities goes from 9 to 27.
 
 
 ![Fig2.png](analysis/Fig2.png)
