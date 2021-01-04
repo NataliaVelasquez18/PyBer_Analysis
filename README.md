@@ -47,10 +47,7 @@ Looking at the box-and-whisker plot we can describe the comparison as follows:
 
 -Comparison of dispersion: The overall range of the data set is greater for the Urban cities (as shown by the distances between the ends of the two whiskers for each boxplot), followed by Suburban and Rural respectively. This means that **the number of rides in Urban cities may vary in greater scale than those in Suburban and Rural.** 
 
-The minimun and maximum number of rides are as follows respectively:
-Urban:12 and 39
-Suburban: 9 and 27
-Rural: 3 and 13
+The minimun and maximum number of rides are as follows respectively: Urban:12 and 39, Suburban: 9 and 27, Rural: 3 and 13.
 
 -Comparison of potential outliers: There is at least one outlier in the Urban cities, which is close to 40.
 
