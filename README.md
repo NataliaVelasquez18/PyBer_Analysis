@@ -27,5 +27,36 @@ Using Pandas library, Jupiter Notebook, and Matplotlib we were able to read, mer
 ![PyBer_fare_summary.png](Resources/PyBer_fare_summary.png)
 
 2. 
+
+![Fig1.png](analysis/Fig1.png)
+
 3. 
+
+![Fig2.png](analysis/Fig2.png)
+
 4. 
+
+![Fig3.png](analysis/Fig3.png)
+
+5. 
+
+![Fig4.png](analysis/Fig4.png)
+
+6. 
+
+![Fig5.png](analysis/Fig5.png)
+
+7. 
+
+![Fig6.png](analysis/Fig6.png)
+
+8. 
+
+![Fig7.png](analysis/Fig7.png)
+
+
+## RECOMMENDATIONS
+
+1.
+2. 
+3. 
