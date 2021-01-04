@@ -53,18 +53,33 @@ Finally, **Rural cities have the lowest number of drivers, significantly higher 
 
 Looking at the box-and-whisker plot we can see that **the median number of rides in Urban cities (24) is the greatest**, followed by Suburban (17), and Rural (6). 
 
-Urban cities shows the highest distance between the ends of the three whiskers for each boxplot.  This means that the **range of the data** for that city type is the **largest**.  Number of rides for Urban cities may have **values going from 12 to 39 rides per city**. Finally, there is at least one outlier in the Urban cities, which is close to 40.
+**Urban cities** shows the highest distance between the ends of the three whiskers for each boxplot.  This means that the **range of the data** for that city type is the **largest**.  Number of rides for Urban cities may have **values going from 12 to 39 rides per city**. Finally, there is at least one outlier in the Urban cities, which is close to 40.
 
-In the time analyzed **Rural cities** have **the smallest number of rides per city** and therefore a narrower range. Number of rides have taken **values between 3 to 13**.
+In the time analyzed **Rural cities** have **the smallest number of rides per city** and therefore a narrower range. Number of rides have taken **values between 3 to 13** rides per city.
 
-The range for Suburban cities goes from 9 to 27.
+The range for Suburban cities goes from 9 to 27 rides per city.
 
 
 ![Fig2.png](analysis/Fig2.png)
 
-4. 
+
+
+**4. Ride Fare by City Type:**
+
+The Ride Fare data for Urban and Suburban show a very **similar distribution**. The interquartile ranges are reasonably similar (as shown by the lengths of the boxes). 
+
+The **overall range** of the data set is **the greatest for the Rural cities** (as shown by the distances between the ends of the three whiskers for each boxplot). Fares have been as low as $10 and as high as $60.
+
+The **median Ride Fare of Rural cities** is $37 making it **the highest** among the three.  
+
+The median Ride Fare of Suburban cities is $31 
+
+The median Ride Fare of Urban cities is $24 
+
 
 ![Fig3.png](analysis/Fig3.png)
+
+
 
 5. 
 
