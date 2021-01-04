@@ -32,7 +32,7 @@ In the following graph we can observe how our main revenue stream comes from ser
 
 **2. Number of Rides provided in relationship with Fare:**
 
-In the graph, the size of the bubbles represent the number of drivers per city.  We can observe that **Urban cities have the greatest number of drivers**, followed by Suburban and Rural.  Also, Fares tend to be lower as the Number of Rides provided increases.  **The majority of Rides provided are in Urban cities and also they have the lowest Fares.**. Finally, **it is interesting how Rural cities have the lowes number of drivers available, the highest Fares, and the least rides provided.**
+In the graph, the size of the bubbles represent the number of drivers per city.  We can observe that **Urban cities have the greatest number of drivers**, followed by Suburban and Rural.  Also, Fares tend to be lower as the Number of Rides provided increases.  **The majority of Rides provided are in Urban cities and on average  they have the lowest Fares.** Finally, **it is interesting how the average fare on Rural cities differ significantly from Urban and Suburban.**  Rural cities have the lowest number of drivers available, the highest Fares, and the least rides provided.
 
 
 ![Fig1.png](analysis/Fig1.png)
