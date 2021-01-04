@@ -22,11 +22,12 @@ Using Pandas library, Jupiter Notebook, and Matplotlib we were able to read, mer
 
 ## ANALYSIS AND RESULTS
 
-**1. Revenue Throughout Time (:**  
+**1. Revenue Throughout Time :**  
 
 In the following graph we can observe how our main revenue stream comes from services provided in **Urban cities**, following by Suburban, and rural.  In the **third week of February** we can observe a significant increase in revenue along the three types of cities.  Regarding the overall increase throughout time; from January to April, **Urban cities show an overall increase in revenue as time passes** despite some variations.  Revenue coming from Suburban cities has remained steady with a tendency to increase. Finally, the rural cities' revenue has had some lows and highs but in general is steady.
 
 ![PyBer_fare_summary.png](Resources/PyBer_fare_summary.png)
+
 
 
 **2. Number of Rides provided in relationship with Fare:**
@@ -35,6 +36,7 @@ In the graph, the size of the bubbles represent the number of drivers per city. 
 
 
 ![Fig1.png](analysis/Fig1.png)
+
 
 
 **3. Number of Rides by City Type:**
