@@ -81,9 +81,16 @@ The median Ride Fare of Urban cities is $24
 
 
 
-5. 
+**5. Driver Count by City Type:**
+
+
+Rural cities shows the smallest driver count follwed by Suburban and lastly Urban.
+
+The number of drivers in the Urban cities is more than four times the drivers in Rural cities.  Rural cities' driver count has been as low as 1 per city and as high as 9. 
+
 
 ![Fig4.png](analysis/Fig4.png)
+
 
 6. 
 
