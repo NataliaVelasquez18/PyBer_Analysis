@@ -92,9 +92,11 @@ The number of drivers in the Urban cities is more than four times the drivers in
 ![Fig4.png](analysis/Fig4.png)
 
 
-**6. Fare, Ride, and Driver Percentages by City Type:**
+**6. Fare Percentage, Ride Percentage, and Driver Percentage by City Type:**
 
-In the next three graphs we can observe that despite the participation of drivers for Rural cities is the lowest (2.6%), the participation of Rides (5.3%), and Total fares (6.8%) for the same city type take higher values.
+In the next three graphs we can observe that despite the participation of drivers for Rural cities is the lowest (2.6%), the participation of Rides (5.3%) & Total fares (6.8%) for the same city type take higher values.
+
+Suburban cities' participation among the three categories is placed in the middle and Urban cities ocuppies the largest participation among the three in all the categories.
 
 
 ![Fig5.png](analysis/Fig5.png)
@@ -104,6 +106,47 @@ In the next three graphs we can observe that despite the participation of driver
 
 
 ![Fig7.png](analysis/Fig7.png)
+
+
+
+## SUMMARY
+
+1. **Average fare price per city type**
+
+Urban    $24.53.
+Suburban $30.97.
+Rural    $34.62.
+
+2. **Average number of Drivers per city** 
+
+Urban    37
+Suburban 14
+Rural     4
+
+3. **Average Number of Rides per City**
+
+Urban    25
+Suburban 17 
+Rural     7 
+
+4. **Total rides** 
+
+Urban 1,625
+Suburban  625
+Rural 125
+
+
+5. **Total drivers** 
+
+Rural          78
+Suburban      490
+Urban       2,405
+
+6. **Total fares ($USD)**
+
+Rural        $4,327
+Suburban    $19,356
+Urban       $39,854
 
 
 ## RECOMMENDATIONS
