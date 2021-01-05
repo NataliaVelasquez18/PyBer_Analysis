@@ -113,40 +113,40 @@ Suburban cities' participation among the three categories is placed in the middl
 
 1. **Average fare price per city type**
 
-Urban    $24.53.
-Suburban $30.97.
+Urban    $24.53, 
+Suburban $30.97, 
 Rural    $34.62.
 
 2. **Average number of Drivers per city** 
 
-Urban    37
-Suburban 14
-Rural     4
+Urban    37, 
+Suburban 14, 
+Rural     4.
 
 3. **Average Number of Rides per City**
 
-Urban    25
-Suburban 17 
-Rural     7 
+Urban    25, 
+Suburban 17,  
+Rural     7. 
 
 4. **Total rides** 
 
-Urban 1,625
-Suburban  625
-Rural 125
+Urban 1,625, 
+Suburban  625, 
+Rural 125.
 
 
 5. **Total drivers** 
 
-Rural          78
-Suburban      490
-Urban       2,405
+Urban       2,405,
+Suburban      490, 
+Rural          78. 
 
 6. **Total fares ($USD)**
 
-Rural        $4,327
-Suburban    $19,356
-Urban       $39,854
+Urban       $39,854,
+Suburban    $19,356,
+Rural        $4,327.
 
 
 ## RECOMMENDATIONS
