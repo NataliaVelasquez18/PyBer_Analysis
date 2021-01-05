@@ -51,13 +51,16 @@ Finally, **Rural cities have the lowest number of drivers, significantly higher 
 
 **3. Number of Rides by City Type:**
 
-Looking at the box-and-whisker plot we can see that **the median number of rides in Urban cities (24) is the greatest**, followed by Suburban (17), and Rural (6). 
+Looking at the box-and-whisker plot we can see that **the median number of rides for city type** are:
+Urban cities 24,
+Suburban 17, 
+Rural (6). 
 
-**Urban cities** shows the highest distance between the ends of the three whiskers for each boxplot.  This means that the **range of the data** for that city type is the **largest**.  Number of rides for Urban cities may have **values going from 12 to 39 rides per city**. Finally, there is at least one outlier in the Urban cities, which is close to 40.
+**Urban cities** show the highest distance between the ends of the three whiskers for each boxplot.  This means that the **range of the data** for Urban cities is the **largest**.  The minimun rides observed for Urban cities is 12 and the maximum 39. Finally, there is at least one outlier in the Urban cities, which is close to 40.
 
-In the time analyzed **Rural cities** have **the smallest number of rides per city** and therefore a narrower range. Number of rides have taken **values between 3 to 13** rides per city.
+In the time analyzed **Rural cities** have **the smallest number of rides per city** and therefore a narrower range. Minimum number of rides observed is 3 and maximum 13.
 
-The range for Suburban cities goes from 9 to 27 rides per city.
+The minimum rides observed in Suburban cities is 9 and the maximum 27.
 
 
 ![Fig2.png](analysis/Fig2.png)
@@ -94,9 +97,7 @@ The number of drivers in the Urban cities is more than four times the drivers in
 
 **6. Fare Percentage, Ride Percentage, and Driver Percentage by City Type:**
 
-In the next three graphs we can observe that despite the participation of drivers for Rural cities is the lowest (2.6%), the participation of Rides (5.3%) & Total fares (6.8%) for the same city type take higher values.
-
-Suburban cities' participation among the three categories is placed in the middle and Urban cities ocuppies the largest participation among the three in all the categories.
+In the next three graphs we can observe that Urban cities represent the greatest participation among the three categories, followed by Suburban, and lastly Rural.
 
 
 ![Fig5.png](analysis/Fig5.png)
@@ -151,6 +152,6 @@ Rural        $4,327.
 
 ## RECOMMENDATIONS
 
-1.
+1. 
 2. 
 3. 
