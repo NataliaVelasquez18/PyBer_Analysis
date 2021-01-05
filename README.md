@@ -42,7 +42,7 @@ We can observe that **Urban cities have on average the greatest number of driver
 
 Despite that **Urban** cities have the greatest number of rides **their fares are the lowest** among the three. 
 
-Finally, **Rural cities have the lowest number of drivers, significantly higher fares compared to Urban cities, and the least rides.
+Finally, **Rural cities have the lowest number of drivers, significantly higher fares compared to Urban cities, and the least rides**.
 
 
 ![Fig1.png](analysis/Fig1.png)
