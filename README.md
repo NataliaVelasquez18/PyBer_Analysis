@@ -169,3 +169,4 @@ A second example is related to security, some drivers might be afraid to drive a
 
 Despite the fact that Fare prices are lower in urban cities, the volume of rides makes this city type the highest source of revenue for PyBer.  According to our research on the ride-share industry, there is opportunity to grow in Urban cities for targeted consumers.  For example, elder users who want to be independent and enjoy freedom to go to medical appointmets, run errands, and visit friends and family.  Small groups of millenial professionals who might be interested in riding in vehicles with cleaner sources of energy. Gen-zs migh also be interested in paying higher fares to donate to local causes.
 
+Source for industry research: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cracks-in-the-ridesharing-market-and-how-to-fill-them
