@@ -152,37 +152,20 @@ Rural        $4,327.
 
 ## RECOMMENDATIONS
 
-current ridesharing model—a model that serves primarily adult, metropolitan-area riders traveling alone or in small groups
-
-heavy turnover in ridesharing drivers, which further strains leading players who often fall short of double-digit margins
-
-research suggests that a number of advances, particularly smarter design, improved user experience, and the application of advanced analytics, can create more purpose-built solutions and more favorable economics. These changes (Ridesharing 2.0 and 3.0, if you will) would encourage a broader population to use ridesharing in a wider range of circumstances and help the industry attract and keep more drivers, which would improve the business’ economics significantly. 
-elderly users enjoyed a new sense of freedom, reporting that they have come to use ridesharing for doctor appointments, errands, and visits to friends without having to rely on family or caregivers for transportation.
-The rural market, for example, comprises 25 percent of underserved use cases, and customers far outside of cities are likely to remain beyond ridesharing’s core for a while.
-e seen how far ridesharing can go in making itself sufficiently attractive to capture additional use cases
- importance of experience to riders suggest that smarter, more user-friendly interior design that makes the ridesharing experience more attractive could be one powerful means of increasing rideshare penetration. The solutions relevant for solo trips and small groups of travelers (such as shoppers and families, which together comprise 18 percent of underserved US VMT) can be implemented almost immediately and address several of the most common instances in which people use an automobile. 
-
 **1. Big data and advanced analytics as a priority to drive decision making:**
 
 We recommend to perform not only descriptive analytics but also predictive analytics. Predictive analytics will allow PyBer to find patterns across different cities to help predict demand and be prepared to respond to it.  For example, patterns can be found in working, residential, and student locations, destinations, routes, and type of service in certain hours of the day. 
 
 **2. Invest in the drivers will help PyBer grow the customer base and attend underserved areas:** 
 
-As we saw in our analysis, Rural cities are underserved and the fares are high in comparison with the other types of cities.  We see an opportunity to grow this segment by increasing PyBer's driver availability and make fare price more affordable. In order to increase the number of drivers in this type of cities and grow the Rural consumer base, we recommend understanding the needs of the drivers and investing in them.  For example, having more versatile car interior designs that allow drivers to serve different types of consumer needs; having cars with foldable chairs for consumers that need to transport large amounts of goods, cases for food delivery, easy to install and uninstall car seats for families traveling with kids, electricity plugs and wifi for students and working professionals.  A second example is related to security, some drivers might be afraid to drive at certain hours of the night or pick up riders on .  PyBer might consider investing in security cameras inside and outside the car, and emergency buttons with GPS car locators connected to the closest police station.
-These examples could also be applied to the other types of cities.
+As we saw in our analysis, Rural cities are underserved and the fares are high in comparison with the other types of cities.  We see an opportunity to grow this segment by increasing PyBer's driver availability. In order to increase the number of drivers in this type of cities and grow the Rural consumer base, we recommend understanding the needs of the drivers and investing in them.  
+
+For example, having more versatile car interior designs that allow drivers to serve different types of consumer needs; having cars with foldable chairs for shoppers, providing cases for food delivery, easy to install and uninstall car seats for families traveling with kids, electricity plugs and wifi for working professionals.  
+
+A second example is related to security, some drivers might be afraid to drive at certain hours of the night.  PyBer might consider taking very seriously rider's reviews by other drivers, investing in security cameras inside and outside the car, and emergency buttons with GPS car locators connected to nearby police stations.
+
 
 **3. Segment ride-share customer persona and develop targeted marketing campaigns to grow Baby boomers, Millenials, and Gen-z users in urban cities:**
 
-Despite the fact that Fare prices are lower in urban cities, the volume of rides makes this city type the highest source of revenue for PyBer.  According to our research on the ride-share industry, there is opportunity to grow in Urban cities for targeted consumers.  For example, older adults who want to be independent and go to medical appointmets, small groups of young professionals 
+Despite the fact that Fare prices are lower in urban cities, the volume of rides makes this city type the highest source of revenue for PyBer.  According to our research on the ride-share industry, there is opportunity to grow in Urban cities for targeted consumers.  For example, elder users who want to be independent and enjoy freedom to go to medical appointmets, run errands, and visit friends and family.  Small groups of millenial professionals who might be interested in riding in vehicles with cleaner sources of energy. Gen-zs migh also be interested in paying higher fares to donate to local causes.
 
-segmenting the needs of our drivers and consumers to 
-
-
-
- 
-
-2. Attract broader population of drivers for Rural cities by attracting more Rural consumers:
-
-Make it more affordable and available
-
-3. 
