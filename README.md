@@ -1,4 +1,5 @@
-![rideshare.png](Resources/rideshare.png)
+<img src="https://github.com/nativelasquez-austin/PyBer_Analysis/blob/main/Resources/rideshare.png" width="250" height="250" />
+
 
 
 # PyBer Analysis
