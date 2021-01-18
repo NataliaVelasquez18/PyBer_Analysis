@@ -1,3 +1,6 @@
+![rideshare.png](Resources/rideshare.png)
+
+
 # PyBer Analysis
 
 ## OVERVIEW OF THE PROJECT
