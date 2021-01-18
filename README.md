@@ -45,7 +45,7 @@ Despite that **Urban** cities have the greatest number of rides **their fares ar
 Finally, **Rural cities have the lowest number of drivers, significantly higher fares compared to Urban cities, and the least rides**.
 
 
-![Fig1.png](analysis/Fig1.png)
+![Fig1.png](Resources/Fig1.png)
 
 
 
@@ -63,7 +63,7 @@ In the time analyzed **Rural cities** have **the smallest number of rides per ci
 The minimum rides observed in Suburban cities is 9 and the maximum 27.
 
 
-![Fig2.png](analysis/Fig2.png)
+![Fig2.png](Resources/Fig2.png)
 
 
 
@@ -80,7 +80,7 @@ The median Ride Fare of Suburban cities is $31
 The median Ride Fare of Urban cities is $24 
 
 
-![Fig3.png](analysis/Fig3.png)
+![Fig3.png](Resources/Fig3.png)
 
 
 
@@ -92,7 +92,7 @@ Rural cities shows the smallest driver count follwed by Suburban and lastly Urba
 The number of drivers in the Urban cities is more than four times the drivers in Rural cities.  Rural cities' driver count has been as low as 1 per city and as high as 9. 
 
 
-![Fig4.png](analysis/Fig4.png)
+![Fig4.png](Resources/Fig4.png)
 
 
 **6. Fare Percentage, Ride Percentage, and Driver Percentage by City Type:**
@@ -100,13 +100,13 @@ The number of drivers in the Urban cities is more than four times the drivers in
 In the next three graphs we can observe that Urban cities represent the greatest participation among the three categories, followed by Suburban, and lastly Rural.
 
 
-![Fig5.png](analysis/Fig5.png)
+![Fig5.png](Resources/Fig5.png)
 
 
-![Fig6.png](analysis/Fig6.png)
+![Fig6.png](Resources/Fig6.png)
 
 
-![Fig7.png](analysis/Fig7.png)
+![Fig7.png](Resources/Fig7.png)
 
 
 
